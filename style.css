@@ -17,18 +17,24 @@ body {
 
 .container {
   max-width: 928px;
-  margin: 0 auto;
+  margin: auto ;
   padding: 0 16px
   color: #ffffff;
+
+}
+
+.text{
+    margin-right: 56px;
 }
 
 .page-header {
   margin: 0 0 160px;
   padding: 40px 0;
   background-color: #00417d;
-  color: #ffffff
-
+  color: #ffffff;
+      
 }
+
 
 .page-header .container,
 .page-footer .container {
@@ -178,7 +184,7 @@ body {
 }
 
 .page-footer {
-  padding: 40px 0;
+  padding: 46px 0;
   background-color: #00417d;
   color:#ffffff;
 }
