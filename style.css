@@ -11,6 +11,10 @@ body {
   background-position: top center;
 }
 
+.code{
+    padding-top: 100px;
+}
+
 .container {
   max-width: 928px;
   margin: 0 auto;
